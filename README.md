@@ -57,40 +57,40 @@ d- Qué redes sociales usa y por qué? <br>
 e- Qué haces en tu tiempo libre? <br>
 
 
-1-Cómo es un día típico  para ti? 
-2-En un día típico, para qué usas Internet? 
-3-Cómo es tu relación con los bancos, eres cliente de alguno?.
-4-Que tan seguido vas al banco?
-5-Cuánto tiempo del día te toma revisar tu cuenta bancaria? cada cuanto y desde donde lo hiciste la ùltima vez?
-6-Qué es lo que más te gusta de cuando visitas tu banco on line? 
-7-Algo que te haya disgustado mucho alguna vez, cuando visitaste tu banco online?.
-8-Que cosas de la atención de tu banco mejorarías?.
-9-Cuando tienes algún problema con tu banco, a quién acudes para resolverlo, o, que haces?.
-10-Cómo afecta a tu vida o a tu trabajo, cuando algo sale mal con tu banco?.
-11-Qué otras operaciones de tu banco, usas?.
-12-Cómo te ha ido con esas operaciones?.
-13-Generalmente, en un día normal, cuando vas a  comprar, usas efectivo o tarjeta bancaria?
-14-Qué es lo que más te gusta de usar ese medio de pago?
-15-Alguna vez tu Banco te ha limitado en algo?. Cómo te sentiste esa vez?
-16-De qué forma sientes que tu Banco te ayuda a manejar tu dinero?
-17-Porque sientes confianza dejando tu dinero en ese Banco?
-18-De tu teléfono,  cuáles son las apps que más usas?.
-19-Què tan seguido las usas?
+1-Cómo es un día típico  para ti? <br>
+2-En un día típico, para qué usas Internet? <br>
+3-Cómo es tu relación con los bancos, eres cliente de alguno? <br>
+4-Que tan seguido vas al banco? <br>
+5-Cuánto tiempo del día te toma revisar tu cuenta bancaria? cada cuanto y desde donde lo hiciste la ùltima vez? <br>
+6-Qué es lo que más te gusta de cuando visitas tu banco on line?  <br>
+7-Algo que te haya disgustado mucho alguna vez, cuando visitaste tu banco online? <br>
+8-Que cosas de la atención de tu banco mejorarías? <br>
+9-Cuando tienes algún problema con tu banco, a quién acudes para resolverlo, o, que haces? <br>
+10-Cómo afecta a tu vida o a tu trabajo, cuando algo sale mal con tu banco? <br>
+11-Qué otras operaciones de tu banco, usas? <br>
+12-Cómo te ha ido con esas operaciones? <br>
+13-Generalmente, en un día normal, cuando vas a  comprar, usas efectivo o tarjeta bancaria? <br>
+14-Qué es lo que más te gusta de usar ese medio de pago? <br>
+15-Alguna vez tu Banco te ha limitado en algo?. Cómo te sentiste esa vez? <br>
+16-De qué forma sientes que tu Banco te ayuda a manejar tu dinero? <br>
+17-Porque sientes confianza dejando tu dinero en ese Banco? <br>
+18-De tu teléfono,  cuáles son las apps que más usas? <br>
+19-Què tan seguido las usas? <br>
 
 Preguntas especìficas sobre su relaciòn con la banca:
 
-20-Eres cliente de algún banco en este momento y estas satisfecho?.
-21-Si dice SI, hace cuánto eres cliente de ese banco?
-22-Que esperabas antes de ser cliente de ese Banco?
-23-Por qué escogiste ese banco y no otro?
-24-Qué es lo más te gusta de ese banco?
-25-Qué es lo que no te gusta de ese Banco?
-26-Cuando escogiste ese banco, que querías de él, cuáles eran tus expectativas?.
-27-Se han cumplido esas expectativas?.
-28-Si no se han cumplido, qué podría mejorar el banco,  para cumplirlas?.
-28-Antes de ser cliente de este Banco, eras cliente de otro?
-29- Por qué canal ingresas a tu banco?.
-30- Por qué ingresas por ese canal?.
+20-Eres cliente de algún banco en este momento y estas satisfecho? <br>
+21-Si dice SI, hace cuánto eres cliente de ese banco? <br>
+22-Que esperabas antes de ser cliente de ese Banco? <br>
+23-Por qué escogiste ese banco y no otro? <br>
+24-Qué es lo más te gusta de ese banco? <br>
+25-Qué es lo que no te gusta de ese Banco? <br>
+26-Cuando escogiste ese banco, que querías de él, cuáles eran tus expectativas? <br>
+27-Se han cumplido esas expectativas? <br>
+28-Si no se han cumplido, qué podría mejorar el banco,  para cumplirlas? <br>
+28-Antes de ser cliente de este Banco, eras cliente de otro? <br>
+29- Por qué canal ingresas a tu banco? <br>
+30- Por qué ingresas por ese canal? <br>
 
 
 2- En base a est entrevista realizada a 6 personas, creamos un User persona:
