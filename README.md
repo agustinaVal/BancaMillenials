@@ -50,11 +50,11 @@ Buenos dìas, me llamo ---------------------- estamos acà, para hacer una inves
 
 Preguntas iniciales para conocer a quien entrevistamos:
 
-A- Nombre.
-b- Edad.
-c- Zona en la que vive.
-d- Qué redes sociales usa y por qué?
-e- Qué haces en tu tiempo libre?
+A- Nombre. <br>
+b- Edad. <br>
+c- Zona en la que vive. <br>
+d- Qué redes sociales usa y por qué? <br>
+e- Qué haces en tu tiempo libre? <br>
 
 
 1-Cómo es un día típico  para ti? 
@@ -124,7 +124,7 @@ CONFECCIÓN Y ‘TESTEO’ DE PROTOTIPOS
 Primera prueba, recibimiento de feedback y apuntes de eso:
 
 <img src="img/testeo.jpg" alt="">
-
+<img src="img/testeo2.jpg" alt="">
 
 
 SOLUCIÓN DEL PROYECTO
@@ -137,8 +137,6 @@ Link del prototipo diseñado en Marvel:  https://marvelapp.com/3910b3a
 Finalmente, despues de mejorar iterando el producto:
 
 <img src="img/pantallas.png" alt="">
-<img src="img/testeo2.jpg" alt="">
-
 
 CONCLUSIONES 
 
