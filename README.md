@@ -36,7 +36,7 @@ Identificamos a nuestros STAKEHOLDERS :
 - UX Designer
 
 RESEARCH
----------
+------------------------------------------------------------------------------------------------------------------
 
 1-Conociendo a la persona : Se realiza preguntas abiertas para conocer cual es el perfil del usuario. Seguido a conocer al usuario, preguntas sobre nuestra investigacion.
 2-Arquetipo de Persona: Según los resultados de las entrevistas.
@@ -124,11 +124,12 @@ CONFECCIÓN Y ‘TESTEO’ DE PROTOTIPOS
 Primera prueba, recibimiento de feedback y apuntes de eso:
 
 <img src="img/testeo.jpg" alt="">
-<img src="img/testeo2.jpg" alt="">
+
 
 
 SOLUCIÓN DEL PROYECTO
 MVP
+----------------------------------------------------------------------------------------------------
 
 Entendiendo que según nuestros hallazgos, el Millennial busca un mundo mejor pero, organizado con su estilo, concluímos realizando el siguiente prototipo final:
 
@@ -138,8 +139,7 @@ Finalmente, despues de mejorar iterando el producto:
 
 <img src="img/pantallas.png" alt="">
 
-CONCLUSIONES 
-
+CONCLUSIONES :
 Dentro de todo este enigmático marco millennial, les presentamos a ustedes el puntapié inicial, una solución mejorada de lo que esperamos sea el banco preferido por la audiencia adulta-joven millenial. El proceso será una transición paulatina, que conlleva tiempo y esfuerzo mejorarla.  Nuestro objetivo es ir validando cada paso evolutivo con las polìticas y el modelo de negocio del Banco del País, y a la par, continuar iterando la solución con la enriquecedora participación de los usuarios.  Es un proyecto integrador, que se irá liberando por fases.
 
 Si el desafío es migrar hacia una nueva forma de trabajar y de hacer banca, una manera de relacionarnos con usuarios que piden cosas nuevas, es vital entender cómo ese público quiere relacionarse con nosotros y con nuestros productos.  Todo esto, por supuesto, sin perder el eje de lograr la captura fidelizada de clientes, y por el ende, el aumento en las ventas.
