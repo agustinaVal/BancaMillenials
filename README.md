@@ -1,12 +1,12 @@
-Proyecto Banco del Pais
+# Proyecto Banco del Pais
 
 Banco del Pais es una app bancaria que ayuda al usuario a realizar sus transacciones más importante mediante su smartphone. 
 
+![dibujo](https://user-images.githubusercontent.com/32283291/37968143-bb8a23dc-31a3-11e8-8541-370585cfb3c9.png)
 
-
-Desarrollado para
+## Desarrollado para [Laboratoria](http://laboratoria.la)
 --------------------------------------------------------------------------------
- Laboratoria
+
 
 
 
